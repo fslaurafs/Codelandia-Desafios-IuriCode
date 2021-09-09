@@ -1,5 +1,4 @@
 <h1 align="center">Desafios Codelândia</h1>
-Desafios da comunidade Codelândia. <br><br>
 
 <details>
     <summary><strong>Sobre a Codelândia</strong></summary>
