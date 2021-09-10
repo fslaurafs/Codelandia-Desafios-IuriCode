@@ -1,7 +1,7 @@
 <h1 align="center">Desafios Codelândia</h1>
 
 <details>
-    <summary><strong>Sobre a Codelândia</strong></summary>
+    <summary><strong>:round_pushpin: Sobre a Codelândia</strong></summary>
     <p>
         Codelândia é uma comunidade de programação e tecnologia. <br>
         <strong>Fundador da Codelândia:</strong> <code><a href="https://github.com/iuricode">IuriCode</a></code> <br>
